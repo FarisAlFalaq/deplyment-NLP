@@ -404,7 +404,8 @@
     {
       "tag": "mitra_PMMB",
       "patterns": [
-        "Apa saja universitas yang tergabung dalam program PMMB?"
+        "Apa saja universitas yang tergabung dalam program PMMB?",
+        "apa saja yang tergabung dalam program?"
       ],
       "responses": [
         "Mitra yang tergabung seperti Pertamina, Bank BRI, PT. KBN, dsb. Info lebih lanjut melalui website FHCI BUMN atau instagram @fhci.bumn"
